@@ -1,2 +1,2 @@
 # Convolución de Matrices
-El presente trabajo una implementación de la convolucion de matrices en lenguaje ensamblado MARIE.js, está compuesto principalmente de una función principal (convolución) y una función de impresión de las matrices X, K y Y.
+El presente trabajo consiste en la implementación de la convolución de matrices en lenguaje ensamblador MARIE.js. Está compuesto principalmente por la función principal (convolución) y la función para imprimir las matrices X, K y Y.
