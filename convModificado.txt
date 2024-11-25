@@ -1,0 +1,1084 @@
+Jump Main
+DEC 0
+DEC 0
+DEC 0
+DEC 0
+DEC 0
+DEC 0
+DEC 0
+DEC 0
+DEC 0
+DEC 0
+DEC 0
+DEC 0
+DEC 0
+DEC 0
+DEC 0
+
+X_0, DEC 1
+ DEC 2
+ DEC 3
+ DEC 4
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+X_1, DEC 1
+ DEC 2
+ DEC 3
+ DEC 4
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+X_2, DEC 1
+ DEC 2
+ DEC 3
+ DEC 4
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+X_3, DEC 1
+ DEC 2
+ DEC 3
+ DEC 4
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+X_4, DEC 1
+ DEC 2
+ DEC 3
+ DEC 4
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+X_5, DEC 1
+ DEC 2
+ DEC 3
+ DEC 4
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+X_6, DEC 1
+ DEC 2
+ DEC 3
+ DEC 4
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+X_7, DEC 1
+ DEC 2
+ DEC 3
+ DEC 4
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+X_8, DEC 1
+ DEC 2
+ DEC 3
+ DEC 4
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+X_9, DEC 1
+ DEC 2
+ DEC 3
+ DEC 4
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+ DEC 1
+X_10, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+X_11, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+X_12, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+X_13, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+X_14, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+X_15, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ 
+K_0, DEC -5
+ DEC -6
+ DEC -7
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+K_1, DEC -8
+ DEC -9
+ DEC -10
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+K_2, DEC -11
+ DEC -12
+ DEC -13
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ 
+Y_0, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_1, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_2, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_3, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_4, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_5, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_6, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_7, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_8, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_9, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_10, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_11, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_12, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_13, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_14, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+Y_15, DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+ DEC 0
+
+/ main del programa
+Main,	Load Y
+		Store inicioY / guardar en variable para pasar en parametro
+		Load equis
+		Output
+		Load equalSign
+		Output
+		Load break
+		Output
+		Load X
+        Store inicio
+        Load F
+        Store filas
+        Load C
+        Store cols
+        JnS imprimirMatriz / imprimir X
+        Load break
+        Output
+        
+        Load ka
+		Output
+		Load equalSign
+		Output
+		Load break
+		Output
+        Load three
+        Store filas
+        Store cols
+        Load K
+        Store inicio
+        JnS imprimirMatriz / imprimir K
+        Load break
+        Output
+        
+        Load testNum
+        Store valorPadding / pasar parametro
+        JnS Convolucion / aplicar convolucion
+
+        Load ye
+		Output
+		Load equalSign
+		Output
+		Load break
+		Output
+        Load inicioY
+        Store inicio
+        Load F
+        Store filas
+        Load C
+        Store cols
+        JnS imprimirMatriz / imprimir Y despues de calcular
+        Halt
+
+/ funcion de convolucion principal
+/ params X=input, K=kernel, F=filas input, C=cols input
+/ param valorPadding=valor para paddng deseado, default=0
+Convolucion,	HEX 000
+				Clear / resetear contadores
+                Store i
+                Store j
+                Store m
+                Store n
+checkConv,		Load i
+				Subt F
+                Skipcond 400 / i < F
+                Jump loopI
+salirConv,		JumpI Convolucion
+loopI,			JnS loopJ
+				Load i
+                Load Y
+                Add nextFila
+				Store Y
+                Store ptrY
+                Load i
+                Add one
+                Store i
+                Jump checkConv
+
+loopJ,			HEX 000
+				Clear
+                Store j
+checkJ,			Load j
+				Subt C
+                Skipcond 400 / j < C
+                Jump asignarY
+salirJ,			JumpI loopJ
+asignarY,		Clear
+				Store suma / suma = 0
+                / aplicar kernel
+                JnS loopM
+                Load suma
+                StoreI ptrY / guardar suma en indice actual de Y
+                Load j
+                Add one
+                Store j / j++
+                Load ptrY
+                Add one
+                Store ptrY / mover puntero a siguiente indice
+                Jump checkJ
+
+loopM,			HEX 000
+				Clear
+                Store m
+checkM,			Load m
+				Subt filasK
+                Skipcond 400 / m < M
+                Jump sumarIndiceM
+salirM,			JumpI loopM
+sumarIndiceM,	JnS loopN
+				Load m
+                Add one
+                Store m / m++
+				Jump checkM
+               
+loopN,			HEX 000
+				Clear
+                Store n
+                Store filaX
+                Store colX
+checkN,			Load n
+				Subt colsK
+                Skipcond 400 / n < N
+                Jump sumarIndiceN
+salirN,			JumpI loopN
+sumarIndiceN,	Load i
+				Add m
+                Subt one
+                Store filaX / filaX = i + m - 1
+				Load j
+                Add n
+                Subt one
+                Store colX / colX = j + n - 1
+                load valorPadding
+				Store valor
+// if (filaX >= 0 && filaX < F && colX >= 0 && colX < C)
+If,				Load filaX
+and1,			Skipcond 000 / filaX >= 0
+                Jump and2
+                Jump noCumple
+and2,			Load F
+                Subt filaX
+                Skipcond 400 / filaX < F
+                Jump and3
+                Jump noCumple
+and3,			Load colX
+				Skipcond 000 / colX >= 0
+                Jump and4
+                Jump noCumple
+and4,			Load C
+				Subt colX
+                Skipcond 400 / colX < C
+                Jump cumpleCond
+                Jump noCumple
+/ si no cumple la condicion, usar el valor dado en el parametro
+/ ptrConv debe estar apuntando al inicio de K
+sumaFinal,		Load K / Load inicioK
+				Store ptrConv
+                Load ptrConv
+				Add n / mover puntero a indice n (col)
+                Store ptrConv
+                Load m
+                Store a
+                Load nextFila
+				Store b
+                JnS Mult / nextFila * m
+				Load ptrConv
+				add resultado
+				Store ptrConv
+                LoadI ptrConv
+				Store b
+				Load valor
+                Store a
+				/ suma += valor * K[m][n]
+                JnS Mult / valor * K[m][n]
+                Load suma
+                Add resultado
+                Store suma / suma += valor * K[m][n]
+                Load n
+                Add one
+                Store n / n++
+				Jump checkN / salir del loop
+/ si cumple la condicion, asignar valor = X[filaX][colX]
+/ ptrConv debe estar apuntando al inicio de X
+cumpleCond,		Load X
+				Store ptrConv
+				Load ptrConv 
+				Add colX 
+                Store ptrConv / mover puntero a indice de columna
+                Load nextFila
+				Store a
+                Load filaX
+                Store b
+                JnS Mult / nextFila * filaX
+				Load ptrConv
+				Add resultado
+				Store ptrConv / mover puntero a indice de fila
+                LoadI ptrConv
+				Store valor / valor = X[filaX][colX]
+				Jump sumaFinal
+noCumple,		Load F
+				Subt one / set bounds = F-1
+                Store bounds
+                Load filaX / set indice =filaX
+                Store indice
+				JnS reflejar / filaX = max(0, min(F - 1, filaX))
+                Load indice
+                Store filaX
+				Load C
+                Subt one
+                Store bounds / set bounds = C-1
+                Load colX
+				Store indice / set indice =colX
+                JnS reflejar / colX = max(0, min(C - 1, colX))
+                Load indice
+                Store colX
+				Load X
+				Store ptrConv
+				Load ptrConv 
+				Add colX 
+                Store ptrConv / mover puntero a indice de columna
+                Load nextFila
+				Store a
+                Load filaX
+                Store b
+                JnS Mult / nextFila * filaX
+				Load ptrConv
+				Add resultado
+				Store ptrConv / mover puntero a indice de fila
+                LoadI ptrConv
+                Store numero
+                Store valor / valor = X[filaX][colX]
+                JnS imprimirNumero
+                Load break
+                Output
+				Jump sumaFinal
+
+  
+/ pasar parametro indice=fila o columna, bounds= F-1 o C-1
+/ maximo se calcula siempre con 0
+reflejar,		HEX 000
+				Load indice
+                Skipcond 000
+                Jump check1 
+                Jump ceroMayor
+check1,			Load bounds
+                Subt indice
+                Skipcond 800 / indice > bounds
+                Jump otro / false
+                Jump indiceMin / True
+otro,			Load bounds 
+maximo,         Skipcond 800 / min(bounds, indice) > 0
+                Jump ceroMayor / false
+                Jump otroMayor
+ceroMayor,      Clear / true
+				Jump otroMayor
+otroMayor,      Store indice
+                JumpI reflejar
+indiceMin,		Load indice
+				Jump maximo
+
+/ pasar parametros filas, cols, inicio
+imprimirMatriz, HEX 000
+				Load inicio
+                Store ptr
+                Clear
+                Store ctrPrint
+                Store ctrFilas
+imprimirFila,	Load ctrPrint
+				Add one
+                Store ctrPrint
+				LoadI ptr / cargar numero
+				Store numero / guardar en parametro
+                JnS imprimirNumero / imprimir numero
+                Load space / Load tab / imprimir whitespace
+				Output
+				Load ptr / incrementar puntero
+                Add one
+                Store ptr
+                Load ctrPrint
+                Subt cols / chequear si termino de imprimir fila
+                Skipcond 400
+                Jump imprimirFila / false
+                Jump checkFila / true
+checkFila, 		Load break / saltar linea
+				Output
+                Load inicio
+                Add nextFila / saltar linea en memoria
+                Store inicio
+                Store ptr
+				Load ctrFilas
+				Add one
+                Store ctrFilas
+				Load ctrPrint
+				Clear
+                Store ctrPrint
+                Load ctrFilas
+				Subt filas
+				Skipcond 400 / termino de imprimir todas las fials?
+                Jump imprimirFila / false
+				JumpI imprimirMatriz / true
+		
+/ TODO: agregar contador para imprimir siempre 5 caracteres (para matrices)
+/ funcion para imprimir un numero positivo o negativo en formato ascii 
+imprimirNumero, HEX 000 / parametro guardado en variable numero
+				Load ten
+				Store divisor
+                Load numero
+				Skipcond 000
+                Jump guardar
+                Jump printNegativo
+guardar,		Load numero
+                Store dividendo
+				JnS Dividir
+				Load dividendo / cargar numero % 10
+                Add convertirASCII
+                StoreI ptrPrint
+				Load ptrPrint
+				Add one
+                Store ptrPrint
+                Load ctrDiv / cargar numero / 10
+                Store numero
+                Skipcond 400 / si ya termino de guardar, imprimir
+                Jump guardar
+                Jump imprimir
+printNegativo,	Load menos / imprimir el signo de negativo si es negativo
+				Output
+                Jump guardar
+imprimir,		Load ptrPrint / direccion donde empieza el numero
+				Subt one
+                Store ptrPrint
+				LoadI ptrPrint
+				Output
+                Load ptrPrint
+                Subt inicioPrint
+				Skipcond 400
+                Jump imprimir
+                JumpI imprimirNumero
+				
+/ funcion para dividir 
+/ pasar parametros dividendo y divisor
+Dividir,	HEX 000
+			Load dividendo
+            Store tmp
+			Skipcond 800
+            JnS Negar
+            Load tmp
+            Store dividendo
+			Load zero
+			Store ctrDiv
+div,		Load dividendo / residuo
+IfD,		Subt divisor
+			Skipcond 000
+            Jump ElseD
+ThenD,		Jump EndifD
+ElseD,		Store dividendo
+			Load ctrDiv
+            Add one
+            Store ctrDiv / parte entera
+            Jump div
+EndifD,		JumpI Dividir
+
+/ funcion para multiplicar
+/ llamar con parametros a y b ; a * b
+/ check if Y is negative, if -ve negate Y and set negative flag
+Mult,	HEX 000
+		Clear
+        Store resultado
+		Load b
+		Skipcond 000
+		Jump nonneg
+
+		Subt b
+        Subt b
+        Store b
+        Clear
+        Add one
+        Store negFlag
+        Clear
+        Jump loopMult
+
+nonneg,  Clear
+         Store negFlag
+         / check if Y is zero, if it is, then we jump to halt
+         Load b
+         Skipcond 400
+         Jump loopMult / false
+         JumpI Mult / true
+
+/ Loop for performing iterative addition
+loopMult,Load resultado
+         Add a
+         Store resultado
+
+         Load b
+         Subt one
+         Store b
+	
+         Skipcond 400 / have we completed the multiplication?
+         Jump loopMult / no; repeat loop
+         / yes, so exit the loop
+
+/ check for negative flag, if it is set, negate the result
+Load negFlag
+Skipcond 800
+JumpI Mult
+
+/ negate result
+Load resultado
+Subt resultado
+Subt resultado
+Store resultado
+JumpI Mult
+            
+/ contar las cifras de un numero entero
+contarCifras, 	HEX 000
+				Load ten
+                Store divisor
+contar,         Load cifras
+				Add one
+                Store cifras
+				Load numero
+                Store dividendo
+                JnS Dividir
+                Load ctrDiv
+				Store numero
+                Skipcond 400
+                Jump contar
+Salir,			JumpI contarCifras
+				
+/ invertir numero negativo para utilizar en operaciones
+Negar,			HEX 000
+				Load tmp
+				Subt tmp
+				Subt tmp
+                Store tmp
+                Load one
+                Store negFlag / avisar que el numero fue negativo
+				Load tmp
+                JumpI Negar                
+
+filas, DEC 0 / parametro imprimirMatriz
+cols, DEC 0 / parametro imprimirMatriz
+inicio, HEX 0 / parametro imprimirMatriz
+numero, DEC 0 / parametro imprimirNumero
+cifras, DEC 0 / numero de cifras de numero
+ctrPrint, DEC 0
+ctrFilas, DEC 0
+
+X, HEX 010 / posicion de inicio de X
+K, HEX 110 / posicion de inicio de K
+Y, HEX 140 / posicion de inicio de Y
+/ contadores
+i, DEC 0
+j, DEC 0
+m, DEC 0
+n, DEC 0
+
+F, DEC 4 / filas X & Y
+C, DEC 4 / cols X & Y
+filasK, DEC 3 / filas K
+colsK, DEC 3 / cols K
+suma, DEC 0 / variable para loop de convlucion
+filaX, DEC 0 / indice de fila para asignar valor
+colX, DEC 0 / indice de columna para asignar valor
+valorPadding, DEC 0 / parametro para customizar padding
+valor, DEC 0 / valor para suma del indice
+ptrConv, HEX 000 / puntero para usar en convolucion
+ptrY, HEX 140 / puntero para asignar y en convolucion
+
+dividendo, DEC 0 / parametro para division, también guarda residuo
+divisor, DEC 0 / parametro para division
+ctrDiv, DEC 0 / resultado de la parte entera de la div
+
+inicioX, HEX 010 / direccion de inicio de X, max 16x16 
+inicioK, HEX 120 / direccion de inicio de matriz K de 3x3
+inicioY, HEX 160 / direccion de inicio de Y, max 16x16 
+ptrPrint, HEX 400 / puntero para imprimir numeros
+inicioPrint, HEX 400 / direccion de inicio de numero a imprimir
+
+a, DEC 0 / parametro X para mult
+b, DEC 0 / parametro Y para mult
+resultado, DEC 0 / resultado de la mult
+
+bounds, DEC 0 
+indice, DEC 0
+
+/ utils
+zero, DEC 0
+one, DEC 1
+three, DEC 3
+ten, DEC 10
+testNum, DEC -1
+space, DEC 32
+break, DEC 10
+menos, DEC 45
+equalSign, DEC 61
+ye, DEC 89
+equis, DEC 88
+ka, DEC 75
+tmp, DEC 0 / tmp multiuso
+negFlag, DEC 0 / flag para numero negativo
+convertirASCII, DEC 48 / sumar para convertir digito a ascii
+ptr, HEX 0 / puntero multiuso
+nextFila, HEX 010 / sumar a ptr para ir a fila inferior en memoria
